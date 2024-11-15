@@ -88,7 +88,7 @@ gruppi()
 
 #COMMENTI FINALI:
 
-#IN QUESTO PROGETTO FATTO DA KEVIN CARATO C'è UN USO DI: uso di librerie/moduli come sys, random e time.
+#IN QUESTO PROGETTO FATTO DA RIUGXSS C'è UN USO DI: uso di librerie/moduli come sys, random e time.
 
 #random: spiegazione generica genera numeri casuali in base alle nostre esigenze tramite le variabili.
 #time: l'uso di time può essere usato con sleep per dare tempo ai codici e farli partire in ordine
