@@ -47,7 +47,7 @@ while is_vero:
         print(akk)
             # Chiedi all'utente se vuole continuare
         continua = input("Vuoi eseguire un \033[1;31maltro calcolo?\033[0m (si/no): ").strip().lower()
-        if continua != "s":
+        if continua != "si":
             print("\033[1;37mRiugxss ti ringrazia\033[0m, torna presto caro amico!")
             break
             
